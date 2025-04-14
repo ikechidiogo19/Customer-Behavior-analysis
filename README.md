@@ -12,7 +12,7 @@ The objective of this project was to identify key drivers of consumer behavior a
 
 ## 📂 Dataset
 
-- **Source:** [Link to dataset]
+- **Source:** <a href = 'https://github.com/ikechidiogo19/Customer-Behavior-analysis/blob/main/Grocery_Inventory_and_Sales_Dataset.csv'> Dataset</a>
 - **Format:** CSV
 ---
 
