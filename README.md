@@ -88,6 +88,10 @@ FROM Ecommerce
 GROUP BY income_level, purchase_channel
 ORDER BY countt desc;
 ```
+
+#### Viz
+![cb](https://github.com/user-attachments/assets/14111f83-0595-4938-98c5-f3003554f80c)
+
 ---
 
 ## 📌 Findings
